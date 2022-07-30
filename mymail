@@ -1,0 +1,31 @@
+Hi,
+
+My name is Mujahid, I am the  solutions architect at AWS. I will  provide  information regarding AWS services , pricing and I will help to get efficient solution.
+
+I  have seen that  your company  in the news recently that your making a big growth which making things fast in online services and  I understood your problem and difficulties your  facing with Static website. Being a startup company those problems and difficulties are common. As I know that your application is a SPA React Application backed by Python and Flask, with PostgreSQL as a database. It 's all runs off a single AWS EC2 instance currently (t3.medium, 4GB of RAM).As company having big growths, I think that t3.medium of AWS EC2 instance facing a downtime. But no need to worry about  anything, I can migrate your data into AWS in fraction of minutes.
+
+I have seen your web application, Being a mixed API and web app I will help to host some static content as well. It is a Python Application so, Elastic Beanstalk  will help to sort out the downtime problems.
+
+Architecture Diagram: 
+
+The services we will use are:
+
+Route 53
+Elastic Load Balancing
+Elastic Beanstalk with Autoscaling EC2 Group
+RDS
+S3
+Code Pipeline
+For more details, The AWS Elastic Beanstalk documentation may help you.
+
+It is not the only product that I could recommend for You . AWS is an open platform and encourages creativity when building solutions. I need to be aware of the pros and cons of each solution and how they will best fit each customer. Other options like Lambda or Far gate can be more complex to set up. Light sail and EC2 can be easy but they don’t provide that automatic scaling. However, each of these services also has its own advantages, and depending on the application that’s being built I can provide different recommendations. An additional availability zone for redundancy is proposed but is not necessary. 
+
+And you can check Month-to-Month pricing on  https://calculator.aws/
+
+I Hope that, I solved your downtime difficulty. From now it will work effectively with more efficient. Feel free to contact us anytime  
+
+Thank you for contacting AWS Solution Architect.
+
+kind regards,
+
+Mujahid
